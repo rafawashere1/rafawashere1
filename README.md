@@ -1,6 +1,6 @@
 # Olá, eu sou o Rafa 👋
 
-**<p align="center">Seja bem-vindo ao meu perfil no GitHub!</p>**
+<h3 align="center">Bem-vindo ao meu perfil no GitHub!</h3>
 
 Tenho 23 anos e moro em Gravataí/RS. Sou engajado do mundo da tecnologia desde criança e me apaixonei pela programação desde o primeiro contato. Há aproximadamente 6 meses, mergulhei intensamente nos estudos e estou continuamente em busca de aprimoramento.
 
