@@ -13,7 +13,7 @@ Tenho 23 anos e moro em Gravataí/RS. Sou engajado do mundo da tecnologia desde 
 
 ## Projetos de Destaque
 
-- [Locadora de Automóveis](https://github.com/Bring-Your-Own-Bug/LocadoraAutomoveis): Uma colaboração de equipe que fortaleceu minhas habilidades no GitHub e no trabalho em equipe.
+- [Locadora de Automóveis](https://github.com/rafawashere1/LocadoraAutomoveis): Uma colaboração de equipe que fortaleceu minhas habilidades no GitHub e no trabalho em equipe.
 - [eAgenda](https://github.com/rafawashere1/eAgenda): Um projeto pessoal onde aplico os conhecimentos adquiridos em C#.
 
 ## Ferramentas e Tecnologias
