@@ -2,7 +2,7 @@
 
 <h3 align="center">Bem-vindo ao meu perfil no GitHub!</h3>
 
-Tenho 23 anos e moro em Gravataí/RS. Sou engajado do mundo da tecnologia desde criança e me apaixonei pela programação desde o primeiro contato. Há aproximadamente 6 meses, mergulhei intensamente nos estudos e estou continuamente em busca de aprimoramento.
+Tenho 23 anos e moro em Gravataí/RS. Amo o mundo da tecnologia desde criança e me apaixonei pela programação já no primeiro contato. Há aproximadamente 6 meses, mergulhei intensamente nos estudos e estou continuamente em busca de aprimoramento.
 
 ## Estatísticas
 
@@ -14,7 +14,7 @@ Tenho 23 anos e moro em Gravataí/RS. Sou engajado do mundo da tecnologia desde 
 ## Projetos de Destaque
 
 - [Locadora de Automóveis](https://github.com/rafawashere1/LocadoraAutomoveis): Uma colaboração de equipe que fortaleceu minhas habilidades no GitHub e no trabalho em equipe.
-- [eAgenda](https://github.com/rafawashere1/eAgenda): Um projeto pessoal onde aplico os conhecimentos adquiridos em C#.
+- [eAgenda](https://github.com/rafawashere1/eAgenda): Um projeto pessoal no qual aplico os conhecimentos adquiridos em C#.
 
 ## Ferramentas e Tecnologias
 
