@@ -1,4 +1,4 @@
-# Olá, eu sou o Rafa 👋
+# <p align="center">Olá, eu sou o Rafa 👋</p>
 
 <h3 align="center">Bem-vindo ao meu perfil no GitHub!</h3>
 
