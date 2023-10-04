@@ -7,7 +7,6 @@ Tenho 23 anos e moro em Gravataí/RS. Amo o mundo da tecnologia desde criança e
 ## Estatísticas
 
 <div align="center">
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=rafawashere1&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafawashere1&layout=compact&theme=gotham"/>
 </div>
 
