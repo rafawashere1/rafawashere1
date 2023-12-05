@@ -24,6 +24,7 @@ Tenho 23 anos e moro em Gravataí/RS. Amo o mundo da tecnologia desde criança e
    <img height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
    <img height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
    <img height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+   <img height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
 <div>
 
 ## Entre em Contato
