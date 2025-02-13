@@ -2,7 +2,7 @@
 
 <h3 align="center">Bem-vindo ao meu perfil no GitHub!</h3>
 
-Tenho 24 anos e moro em Gravataí/RS. Amo o mundo da tecnologia desde criança, e me apaixonei pela programação já no primeiro contato. Desde então, tenho me dedicado intensamente aos estudos, buscando constantemente aprimorar minhas habilidades.
+Tenho 25 anos e moro em Gravataí/RS. Amo o mundo da tecnologia desde criança, e me apaixonei pela programação já no primeiro contato. Desde então, tenho me dedicado intensamente aos estudos, buscando constantemente aprimorar minhas habilidades.
 
 ## Estatísticas
 
